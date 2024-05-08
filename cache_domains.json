@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "arch",
+			"description": "Arch Linux based repositories",
+			"domain_files": ["arch.txt"]
+		},
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
@@ -24,6 +29,16 @@
 			"name": "daybreak",
 			"description": "Daybreak games CDN",
 			"domain_files": ["daybreak.txt"]
+		},
+		{
+			"name": "debian",
+			"description": "Debian based repositories",
+			"domain_files": ["debian.txt"]
+		},
+		{
+			"name": "drivers",
+			"description": "Drivers repositories",
+			"domain_files": ["drivers.txt"]
 		},
 		{
 			"name": "epicgames",

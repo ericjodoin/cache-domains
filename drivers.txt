@@ -1,0 +1,9 @@
+us.download.nvidia.com
+drivers.amd.com
+downloadmirror.intel.com
+global-download.acer.com
+ftp.hp.com
+download.lenovo.com
+dlcdnets.asus.com
+download.asrock.com
+download.msi.com
